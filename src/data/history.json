@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Senior Software Engineer",
+        "organisation": "Emids",
+        "startDate": "Feb, 2021",
+        "endDate": "Present",
+        "experiences": ["Worked as full-stack dev in multiple projects", "Mentored juniors, gave KTs/code-walkthrough."],
+        "imageSrc": "history/emids.png"
+    },
+    {
+        "role": "Associate Engineer",
+        "organisation": "Nagarro",
+        "startDate": "Jan, 2020",
+        "endDate": "Jan, 2021",
+        "experiences": ["Worked on E-Commerce project building backend APIs and frontend as well.", "Implemented PayPal payment gateway."],
+        "imageSrc": "history/nagarro.png"
+    },
+    {
+        "role": "Trainee",
+        "organisation": "Nagarro",
+        "startDate": "June, 2019",
+        "endDate": "Jul, 2019",
+        "experiences": ["Trained in Python- Chatbots, Data Visualization & Analysis, Machine Learning, Deep Learning"],
+        "imageSrc": "history/nagarro.png"
+    }
+]
