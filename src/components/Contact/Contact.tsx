@@ -25,6 +25,10 @@ export const Contact = () => {
           </a>
         </li>
         <li className={styles.link}>
+          <img src={getImageUrl("contact/callIcon.png")} alt="call-icon" />
+          <a href="tel:888-291-1788">+91-8882911788</a>
+        </li>
+        <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="github-icon" />
           <a href="https://github.com/prachijustin">github.com/prachijustin</a>
         </li>
