@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Cytel - Solara",
+        "imageSrc": "projects/project.png",
+        "description": "Worked on data visualizations and analysis to present data in various charts, graphs, or pictorial forms for clinician trials.",
+        "skills": ["Python", "Dash", "Plotly", "Pandas", "Azure"]
+    },
+    {
+        "title": "VirtaHealth",
+        "imageSrc": "projects/project.png",
+        "description": "Developed REST and GraphQL APIs on Backend, serving data from FHIR and Google Healthcare APIs.",
+        "skills": ["Python", "Flask", "ReactJS", "GCP", "Protobuf", "gRPC"]
+    },
+    {
+        "title": "SyncSketch",
+        "imageSrc": "projects/project.png",
+        "description": "Implemented social login with Slack and Discord and built a notification system to send users notifications.",
+        "skills": ["Python", "Django", "VueJS", "Postgres", "AWS"]
+    },
+    {
+        "title": "Biskane",
+        "imageSrc": "projects/project.png",
+        "description": "Worked as full stack for e-commerce platform. Implemented Paypal payment gateway as well.",
+        "skills": ["ExpressJS", "Angular", "Postgres", "AWS"]
+    }
+]
